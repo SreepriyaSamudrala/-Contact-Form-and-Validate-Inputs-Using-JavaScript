@@ -1,2 +1,4 @@
 # -Contact-Form-and-Validate-Inputs-Using-JavaScript
 A clean, responsive contact form built with HTML, CSS, and JavaScript. Validates user inputs—name, email, and message—with instant feedback. The form highlights errors in red, confirms success, and never submits invalid data.
+This project delivers a clean, responsive Contact Us form built with HTML, CSS, and JavaScript. It features client-side validation to ensure users provide a name, a properly formatted email (via regex), and a message before submitting. Errors are highlighted inline under each field, while valid inputs trigger green borders and labels. A success message appears upon form submission, and the form resets automatically. Real-time validation enhances the user experience by offering immediate feedback as users type
+![img alt](https://github.com/SreepriyaSamudrala/-Contact-Form-and-Validate-Inputs-Using-JavaScript/blob/main/Screenshot%202025-06-10%20114103.png?raw=true)
